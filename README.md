@@ -1,2 +1,2 @@
 # Nodejs-AdminLTE
-Admin LTE Served from Expressjs
+Admin LTE Served from Express
